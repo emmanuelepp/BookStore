@@ -1,19 +1,30 @@
-﻿<Properties StartupConfiguration="{9B57F5A6-A7ED-4F26-80BB-A1F81DE367F8}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{9B57F5A6-A7ED-4F26-80BB-A1F81DE367F8}|Default">
   <MonoDevelop.Ide.ItemProperties.BookStore PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="BookStore/Startup.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="BookStore/Startup.cs" Line="42" Column="35" />
-      <File FileName="BookStoreManageAPI/Startup.cs" />
-      <File FileName="BookStoreManageAPI/Services/BookStoreServices.cs" />
-      <File FileName="BookStore/Controllers/CategoryController.cs" />
-      <File FileName="BookStore/Program.cs" />
+      <File FileName="BookStore/Startup.cs" Line="1" Column="1" />
+      <File FileName="BookStoreManageAPI/Startup.cs" Line="35" Column="13" />
+      <File FileName="BookStoreManageAPI/Services/BookStoreServices.cs" Line="10" Column="49" />
+      <File FileName="BookStore/Controllers/CategoryController.cs" Line="38" Column="39" />
+      <File FileName="BookStore/Views/Category/Index.cshtml" Line="1" Column="1" />
+      <File FileName="BookStoreManageAPI/Models/Category.cs" Line="12" Column="30" />
+      <File FileName="BookStore/Controllers/Upsert.cshtml" Line="8" Column="47" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BookStore" expanded="True">
             <Node name="BookStore" expanded="True">
-              <Node name="Startup.cs" selected="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="CategoryController.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Category" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BookStoreManageAPI" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
             </Node>
           </Node>
         </State>
