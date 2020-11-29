@@ -1,0 +1,12 @@
+/Users/root1/Projects/BookStore/BookStore_Model/bin/Debug/net5.0/BookStore_Model.deps.json
+/Users/root1/Projects/BookStore/BookStore_Model/bin/Debug/net5.0/BookStore_Model.dll
+/Users/root1/Projects/BookStore/BookStore_Model/bin/Debug/net5.0/ref/BookStore_Model.dll
+/Users/root1/Projects/BookStore/BookStore_Model/bin/Debug/net5.0/BookStore_Model.pdb
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.AssemblyInfoInputs.cache
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.AssemblyInfo.cs
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.csproj.CoreCompileInputs.cache
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.dll
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/ref/BookStore_Model.dll
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.pdb
+/Users/root1/Projects/BookStore/BookStore_Model/obj/Debug/net5.0/BookStore_Model.csprojAssemblyReference.cache
